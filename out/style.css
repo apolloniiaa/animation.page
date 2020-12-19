@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Beasts";
-  src: url("/font/Nebula-Regular.otf");
+  src: url("./font/Nebula-Regular.otf");
 }
 * {
   margin: 0;
